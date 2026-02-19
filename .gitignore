@@ -1,4 +1,2 @@
-chapter_03/mlruns/*
-chapter_03/mlflow.db
-chapter_04/mlruns/*
-chapter_04/mlflow.db
+*/mlruns/*
+mlflow.db

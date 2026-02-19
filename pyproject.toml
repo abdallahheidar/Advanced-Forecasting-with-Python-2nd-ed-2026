@@ -15,4 +15,5 @@ dependencies = [
     "scikit-learn>=1.8.0",
     "setuptools>=72.0.0,<80.0.0",
     "ydata-profiling>=4.12.2",
+    "yfinance>=1.2.0",
 ]
